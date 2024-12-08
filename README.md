@@ -114,3 +114,6 @@ Windows, macOS, Linux supported; available on mobile platforms too.
 Permission errors often resolved by running as admin.
 
 ## Read Also
+- [Ledger Live Desktop: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/Ledger_Live/blob/main/README.md)
+- [Solflare Extension: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/Solflare/blob/main/README.md)
+- [Trust Wallet: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/trust_wallet/blob/main/README.md)
